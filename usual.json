@@ -1,0 +1,25 @@
+{
+  "workbench.colorTheme": "Night Owl",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "operator mono",
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "editor.mouseWheelZoom": true,
+  "files.autoSave": "onFocusChange",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  // config related to code formatting
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": null
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": false
+  },
+  "eslint.alwaysShowStatus": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false
+}
