@@ -7,6 +7,9 @@
   "editor.minimap.enabled": false,
   "editor.mouseWheelZoom": true,
   "editor.formatOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
